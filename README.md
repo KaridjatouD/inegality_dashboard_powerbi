@@ -39,6 +39,7 @@ This dashboard explores the Gender Equality Index in companies with more than 50
 # File
 
 - `index_egalite_dashboard.pbix` – full Power BI file (2 report pages)
+- [Screenshots of dashboard](screenshots)
 
 # Author
 
